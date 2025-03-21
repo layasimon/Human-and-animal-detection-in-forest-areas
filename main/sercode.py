@@ -29,7 +29,7 @@ output_details = interpreter.get_output_details()
 
 cap = cv2.VideoCapture(0) 
 
-lis=["person","cat","dog","horse","sheep","cow","elephant","bear","zebra","giraffe"]
+list=["person","cat","dog","horse","sheep","cow","elephant","bear","zebra","giraffe"]
 
 while True:
 	# capture image
